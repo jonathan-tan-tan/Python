@@ -1,6 +1,6 @@
 """ 
     Serie Fibonacci
-escribe un programa que es riba los 50 primeros numeros de la serie de Fibonacci empezando en 0.
+escribe un programa que escriba los 50 primeros numeros de la serie de Fibonacci empezando en 0.
 la serie de Fibonacci se compone poruna sucesión de números en la que el siguiente es la suma de los dos anteriores.
 0,1,1,2,3,5,8,13,21
 
@@ -30,7 +30,7 @@ def fibonacci(n):
             print(fib_sig, end=" ")
             fib_1=fib_2
             fib_2=fib_sig
-            
+
 
 """            
 
