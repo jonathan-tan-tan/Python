@@ -47,6 +47,6 @@ for i in range(tamano):
     entrada=[int(num) for num in entrada]         
     B.append(entrada)
     
-import numpy
+import numpy 
 
 print(numpy.dot(A,B))

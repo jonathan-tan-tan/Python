@@ -34,7 +34,7 @@ B=input()
 B=B.split()
 B=[int(num) for num in B]
 
-import numpy
+import numpy 
 
 print(numpy.inner(A,B))
 
