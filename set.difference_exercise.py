@@ -22,6 +22,8 @@ set(['a', 'c', 'e', 'H', 'k', 'r'])
 
 >>> s - set("Rank")
 set(['H', 'c', 'r', 'e'])
+
+
 Task
 
 Students of District College have a subscription to English and French newspapers.
