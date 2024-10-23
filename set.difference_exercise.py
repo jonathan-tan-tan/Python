@@ -44,6 +44,7 @@ The fourth line contains the space separated list of student roll numbers who ha
 to the French newspaper.
 
 Constraints
+
 0  ≤ total number of students in college ≤ 1000
 
 Output Format
